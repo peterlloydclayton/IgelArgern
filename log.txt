@@ -1,0 +1,15 @@
+Number of Game Tables: 3
+For simulation time: 12
+Timing Wheel: 
+t = 0: Empty
+t = 1: 1 -> null
+t = 2: Empty
+t = 3: Empty
+t = 4: Empty
+t = 5: Empty
+t = 6: 1 -> 2 -> 3 -> null
+t = 7: 1 -> null
+t = 8: 3 -> 2 -> null
+t = 9: Empty
+
+Total number of Players: 41
